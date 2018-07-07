@@ -1,2 +1,3 @@
-# jupyter-notebooks
-Collection of Jupyter notebooks
+# jupyter-notebooks (Work in progress)
+
+Collection of Jupyter notebooks. 
